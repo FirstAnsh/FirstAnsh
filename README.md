@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ansh Rakesh Yewale</h1>
+<h1 align="center">Hi 👋, I'm Ansh Yewale</h1>
 <h3 align="center">Building AI Agents | 2nd Year B.Tech AIML </h3>
 
 <p align="left"> 
